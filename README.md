@@ -1,4 +1,4 @@
-# PracticalExam
+# demo
 
 Step 1: Initialize Git
 git init
